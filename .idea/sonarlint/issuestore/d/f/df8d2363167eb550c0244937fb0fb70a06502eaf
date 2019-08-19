@@ -1,0 +1,10 @@
+
+esquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(‰ùòÎ
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(è‰ƒÔüÿÿÿÿ8£šËõÈ-
+msquid:S00100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‹³ı8Ü„ÉõÈ-
+Xsquid:S2209C"5Change this instance-reference to a static reference.(©ö§ğşÿÿÿÿ8Ü„ÉõÈ-
+jsquid:S1192"GDefine a constant instead of duplicating this literal "second" 3 times.(İåçúÿÿÿÿ8åÜÍõÈ-
+>squid:S1659""Declare "next" on a separate line.(Ÿ­‚®ùÿÿÿÿ
+Xsquid:S2209E"5Change this instance-reference to a static reference.(ºøÜ¸ûÿÿÿÿ8Ü„ÉõÈ-
+Isquid:S1172J"+Remove this unused method parameter "view".(Ö‹³ı8Ü„ÉõÈ-

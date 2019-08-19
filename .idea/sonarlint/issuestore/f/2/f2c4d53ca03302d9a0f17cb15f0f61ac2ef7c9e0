@@ -1,0 +1,9 @@
+
+gsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(¡®Ž¾ûÿÿÿÿ
+gsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(Ø€ªµÿÿÿÿÿ
+Isquid:S1481"-Remove this unused "soundUri" local variable.(úÕ—Ûúÿÿÿÿ
+Gsquid:S1481*"0Remove this unused "mediaPlayer" local variable.(Øýžý
+Wsquid:CallToDeprecatedMethod"/Remove this use of "Builder"; it is deprecated.(¯»¥ë
+Lsquid:S2209("5Change this instance-reference to a static reference.(ëú€ü
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•¢¼¾
+dsquid:UselessImportCheck";Remove this unused import 'android.graphics.BitmapFactory'.(âàºÍûÿÿÿÿ

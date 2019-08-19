@@ -1,0 +1,7 @@
+
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•¢¼¾
+Csquid:S1481",Remove this unused "intent1" local variable.(ž†Ž¢
+bsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(ÑüòÀ
+Vsquid:CallToDeprecatedMethod"/Remove this use of "Builder"; it is deprecated.(…Œ«I
+Isquid:S1481"-Remove this unused "soundUri" local variable.(úÕ—Ûúÿÿÿÿ
+?squid:S1068"(Remove this unused "unqi" private field.(•¢¼¾
